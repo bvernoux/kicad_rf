@@ -17,9 +17,7 @@ It contains following features:
 * A series fixture for 0805 components
 * A shunt fixture for 0805 components
 
-https://docs.oshpark.com/services/four-layer/
-
-The board is designed assuming the following parameters (based on OSH Park 4 Layers 190Tg FR408-HR):
+The board is designed assuming the following parameters (based on [OSH Park 4 Layers 190Tg FR408-HR specifications](https://docs.oshpark.com/services/four-layer)):
 * Base Material / Board thickness: 1.6 mm (63 mil)
 * Center Conductor Width: 0.34036 mm (13.4 mil)
 * Gap Width: 0.1524 mm (6 mil)
