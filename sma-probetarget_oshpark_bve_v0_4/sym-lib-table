@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name sma-probetarget-rescue)(type Legacy)(uri ${KIPRJMOD}/sma-probetarget-rescue.lib)(options "")(descr ""))
+)
