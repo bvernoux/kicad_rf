@@ -1,0 +1,1 @@
+D:\_proj\__Lab_Tools\_RF_Filter_Layout\qucs-0.0.19-win32-mingw482-asco-freehdl-adms\bin\qucsconv.exe -if qucsdata -of touchstone -i OSHPark_6Layers_trl-board_microstrip_v0_1_Line_76mm_qucs.dat -o OSHPark_6Layers_trl-board_microstrip_v0_1_Line_76mm_qucs.s2p

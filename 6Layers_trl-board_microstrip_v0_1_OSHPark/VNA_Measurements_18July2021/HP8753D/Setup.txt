@@ -1,0 +1,11 @@
+2x Cables Mini-Circuits 141-4SM+ (they are a bit old so performance are a bit affected)
+Calibration used on HP8753D VNA "FF_1414S" (Full 2Ports 1601pts)
+Temperature 25°C +/-1°C
+
+Example capture time
+HEWLETT PACKARD,8753D,0,6.14
+save_SnP_FORM1() finished with success in 35 s(35264 ms)
+save_SnP_FORM1() finished with success in 35 s(35459 ms)
+save_SnP_FORM1() finished with success in 35 s(35443 ms)
+save_SnP_FORM1() finished with success in 37 s(37090 ms)
+save_SnP_FORM1() finished with success in 36 s(36634 ms)
